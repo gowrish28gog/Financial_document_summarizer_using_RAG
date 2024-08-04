@@ -1,6 +1,6 @@
 # Chatbot leveraging RAG for Financial Document (10Q, 10K) Summarization
 
-> Check other similar LLM projects at https://github.com/kHarshit/llm-projects.
+> Check other similar LLM projects at https://github.com/gowrish28gog/.
 
 Chatbot leveraging Retrieval Augmented Generation (RAG) for Financial Document Summarization
 
@@ -74,8 +74,3 @@ python index.py
 * Evaluation: [eval.py](./eval.py)
 
 
-# Contributors
-
-| Contributor 1 | Contributor 2 | Contributor 3 |
-| ------------- | ------------- | ------------- |
-| [Harshit Kumar](https://github.com/kHarshit) | [Sarthak Khandelwal](https://github.com/sarthakforwet) | Alexander Leon |
