@@ -1,0 +1,9 @@
+openai
+dash
+transformers
+bitsandbytes
+langchain
+accelerate
+chromadb
+sentence_transformers
+ragas
